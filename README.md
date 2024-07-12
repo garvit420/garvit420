@@ -13,9 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=garvit420&theme=rose_pine&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit420&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=garvit420&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=garvit420&icon=0&color=0)](https://visitcount.itsvg.in)
 
