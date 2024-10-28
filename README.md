@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvit._.jain.og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-jain-7163511b9) [![LeetCode](https://img.shields.io/badge/LeetCode-%230d1017.svg?logo=leetcode&logoColor=white)](https://leetcode.com/garvit-_-jain) [![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/garvitjain.og) [![CodeChef](https://img.shields.io/badge/CodeChef-%23594877.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/garvitjain527)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-jain-7163511b9) [![LeetCode](https://img.shields.io/badge/LeetCode-%230d1017.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/garvitjain_og) [![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/garvitjain.og) [![CodeChef](https://img.shields.io/badge/CodeChef-%23594877.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/garvitjain_og)
 
 
 # 💻 Tech Stack:
